@@ -9,9 +9,11 @@
 
 - 👯 I’m looking to collaborate on **Any of my repositories**
 
-- 👨‍💻 All of my projects are available on [My Portfolio](https://jessica-bowne-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jessica-bowne-portfolio.netlify.app/](https://jessica-bowne-portfolio.netlify.app/)
 
 - 📫 How to reach me **jbowne24@gmail.com**
+
+- ⚡ Fun fact **I want to go snowboarding in Japan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
