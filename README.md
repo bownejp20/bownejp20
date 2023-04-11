@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jessica Bowne</h1>
-<h3 align="center">A software Engineer sipping bubble tea in the sun</h3>
+<h3 align="center">A Software Engineer sipping bubble tea in the sun</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bownejp20&label=Profile%20views&color=0e75b6&style=flat" alt="bownejp20" /> </p>
 
